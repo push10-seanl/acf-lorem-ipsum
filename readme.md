@@ -1,6 +1,6 @@
 # ACF Lorem Ipsum
 
-work in progress. Currently works specifically for ACF groups inside flexible content fields by adding a 'generate dummy content' button to each block.
+work in progress. Currently works specifically for ACF groups inside flexible content fields by adding a 'generate dummy content' button to each group.
 
 Currently generates content for images, links, wysiwyg, oEmbed, file (assumes .mp4), and text/text area fields.
 
